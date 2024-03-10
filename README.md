@@ -1,7 +1,7 @@
 # Voyage
 
 ### What is the back story?
-You, the player, cannot help but follow the irresistible call of adventure. With her cat that can sniff out treasure (in the form of a golden shimmering key...) they leave everything they have ever known with nothing but the clothes on their backs in search of the hidden key, rumored to be in a far off land.
+You, the player, cannot help but follow the irresistible call of adventure. With your cat that can sniff out treasure (in the form of a golden shimmering key...) you leave everything you have ever known with in search of the hidden key, rumored to be in a far off land (you were bored anyways).
 
 ### What are the controls?
 Tab - Switch between characters
